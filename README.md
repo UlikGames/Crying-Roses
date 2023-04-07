@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/logo.png" width="200" alt="Feirão Vale Tudo Fiat Duna">
+  <img src="github/logo.png" width="200" alt="Everything that I can't carry anymore">
 </p>
 
 <h1 align="center">Cry of the Roses</h1>
