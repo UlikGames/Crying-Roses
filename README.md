@@ -37,4 +37,4 @@ I use all the power of Next.js to create the static pages of each poem and bring
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
