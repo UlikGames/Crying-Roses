@@ -1,6 +1,6 @@
 ---
 title: "A Woman of Unmatched Beauty Compared to Nature"
-thumb: 'https://images.pexels.com/photos/1898555/pexels-photo-1898555.jpeg'
+thumb: 'https://images.pexels.com/photos/7277896/pexels-photo-7277896.jpeg'
 date: "2021-01-12"
 ---
 Gözleri gökler kadar mavili,
