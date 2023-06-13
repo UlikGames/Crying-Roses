@@ -1,6 +1,6 @@
 ---
 title: "What's the Use of Coming Anymore ?"
-thumb: 'https://images.pexels.com/photos/1898555/pexels-photo-1898555.jpeg'
+thumb: 'https://images.pexels.com/photos/4475371/pexels-photo-4475371.jpeg'
 date: "2023-06-13"
 ---
 Ne yağmur bekler toprak, ne güneş bekler çiçek,
