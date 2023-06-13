@@ -73,3 +73,7 @@ Ne de şeytan, bir günahı, Seni beklediğim kadar.
 Geçti istemem gelmeni, Yokluğunda buldum seni;
 <br />
 Bırak vehmimde gölgeni. Gelme, artık neye yarar?
+<br />
+<br />
+<br />
+Inspired by BEKLENEN poem by Necip Fazıl
