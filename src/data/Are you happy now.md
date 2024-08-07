@@ -1,5 +1,5 @@
 ---
-title: "Are you happy now ?"
+title: "Last words"
 thumb: 'https://images.pexels.com/photos/1666779/pexels-photo-1666779.jpeg'
 date: "2024-07-08"
 ---
