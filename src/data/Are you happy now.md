@@ -1,7 +1,7 @@
 ---
 title: "Are you happy now ?"
 thumb: 'https://images.pexels.com/photos/1666779/pexels-photo-1666779.jpeg'
-date: "2021-01-12"
+date: "2024-07-08"
 ---
 Mutlu musun şimdi?
 <br />
