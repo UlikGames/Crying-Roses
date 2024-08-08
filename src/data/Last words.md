@@ -20,6 +20,11 @@ Söndürebilecekken birbirimizin ateşini,
 Başkası için yakmana kendini.
 <br />
 <br />
+Seni kazanmak için çabalarken, kendimi kaybettim
+<br />
+En büyük nankörlüğüde kendime ettim
+<br />
+<br />
 Artık fırtınalar kopmuyor içimde,
 <br />
 Rüzgarın dahi esmiyor yüreğimde.
